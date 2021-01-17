@@ -42,7 +42,7 @@ def auth_session(): #Пример авторизованных запросов:
         'password': 'def'
     }
 
-    datas['login'] = 'romanponomarew'
+    datas['login'] = 'login'
     datas['password'] = 'password'
 
     url = 'https://www.elibrary.ru/defaultx.asp'
